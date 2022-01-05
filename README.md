@@ -7,7 +7,6 @@
 - employed at SAP as a coorperative student
 - currently learning everything
 
-<br />
 
 ### Connect with me
 
