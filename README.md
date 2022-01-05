@@ -20,7 +20,7 @@
 ---
 
 <img align="left" alt="HaseFlrn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HaseFlrn&show_icons=true&hide_border=true" />
-<img align="left" alt="HaseFlrn's Top Languages" src="https://github-readme-stats.vercel.app/api/toplangs/?username=HaseFlrn" />
+<img align="left" alt="HaseFlrn's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaseFlrn" />
 
 
 [linkedin]: https://de.linkedin.com/in/florian-hase-173603225
