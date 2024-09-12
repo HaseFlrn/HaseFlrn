@@ -1,14 +1,6 @@
 
 ## Hi my name is Florian Hase
 
-### I am
-
-- a student studying B.Sc. business informatics with a focus on software engineering at the DHBW Mannheim
-- employed at SAP as a coorperative student
-- currently learning everything
-
-<br />
-
 ### Connect with me
 
 [<img align="left" alt=" Florian Hase | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
