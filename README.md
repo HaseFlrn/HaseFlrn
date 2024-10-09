@@ -1,19 +1,9 @@
 
 ## Hi my name is Florian Hase
 
-### Connect with me
-
-[<img align="left" alt=" Florian Hase | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-
-[<img align="left" alt=" Florian Hase | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
-
-<br />
-
----
-
-<img align="left" alt="HaseFlrn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HaseFlrn&show_icons=true&hide_border=true" />
-<img align="left" alt="HaseFlrn's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaseFlrn" />
-
-
-[linkedin]: https://de.linkedin.com/in/florian-hase-173603225
-[instagram]: https://www.instagram.com/florian_hase1/
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HaseFlrn&theme=dracula&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HaseFlrn&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</a>
